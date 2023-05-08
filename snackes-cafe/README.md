@@ -4,7 +4,7 @@
 # Author: Zekra Quraan
 
 # Links and Resources
-[](https://github.com/zekraquraan/snakes-cafe)
+[snack-cafee](https://github.com/zekraquraan/snakes-cafe)
 # Setup
 # .env requirements (where applicable)
 
